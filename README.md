@@ -1,17 +1,17 @@
 # Hi! 👋 I'm **Dan**!
 
-***- 👀 I’m interested in***
+***- 👀 I’m interested in...***
   - **getting my first job in IT as a junior**
   - python
   - automation
   - home assistant
   - looking into machine learning
   
-***- 🌱 I’m currently getting better in***
+***- 🌱 I’m currently getting better at...***
   - python
   - linux
 
-***- ⚙️ I'm currently working on***
+***- ⚙️ I'm currently working on...***
   - Voter's permit request generator
   - CoinMate API script
  
