@@ -9,12 +9,14 @@
   
 ***- 🌱 I’m currently getting better at...***
   - python
+  - bash
   - linux
-  - CS50: Introduction to Computer Science | Harvard University
+  - [Fundamentals of Red Hat Enterprise Linux](https://courses.edx.org/courses/course-v1:RedHat+RH066x+3T2020/course/)
+  - [CS50: Introduction to Computer Science | Harvard University](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
 
 ***- ⚙️ I'm currently working on...***
   - Voter's permit request generator
-  - CoinMate API script
+  - [CoinMate API script](https://github.com/danmyway/cm_api)
  
 
 
