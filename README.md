@@ -1,7 +1,7 @@
 # Hi! 👋 I'm **Dan**!
 
 ***- 👀 I’m interested in...***
-  - **getting my first job in IT as a junior**
+  - **getting my first job in IT as a junior** ✔️
   - python
   - automation
   - home assistant
